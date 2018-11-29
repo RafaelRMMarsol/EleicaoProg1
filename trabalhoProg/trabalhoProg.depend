@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543458446 source:c:\users\rafam\desktop\uenp\trabalhoprog\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
