@@ -4,3 +4,10 @@
 	<stdlib.h>
 	<string.h>
 
+1543479127 source:c:\users\josel\desktop\eleicaoprog1-master\trabalhoprog\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+
